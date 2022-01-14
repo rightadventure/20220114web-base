@@ -1,0 +1,126 @@
+.box {
+    color:#052d66;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    width:80%;
+    margin:auto;
+}
+.container h1{
+    text-align: center;
+    text-indent: 24px;
+}
+.container h3{
+    text-align:center;
+}
+.container{
+    line-height:180%;
+}
+p{
+    text-indent: 2em;
+}
+.box1{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 40px;
+}
+.box2{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+.box3{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+.box4{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+.box5{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+.box6{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+.box7{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+.box8{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+.box9{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+.box10{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+.box11{
+    border:2px rgb(125, 135, 190) dotted;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:20px 0px;
+    border-radius: 40px;
+}
+a{
+    text-decoration:none;
+    color:rgb(12, 99, 231);
+}
+a:hover{
+    color:ivory;
+}
